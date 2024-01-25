@@ -1,0 +1,16 @@
+.bottomHome{
+    display: flex;
+    gap: 10px;
+    .bottomHome_left{
+        width: 200px;
+        height: 300px;
+        background-color: red;
+        background-image: url(/assets/images/b1.jpg);
+    .content{
+        width: 100%;
+    }
+    }
+    .bottom_right{
+        border: 1px solid blue;
+    }
+}
